@@ -12,6 +12,7 @@ tbd
 
 ## Screen Shots
 
+### Main Page
 
 ![Screenshot of Home Assistant Page1](https://github.com/thorschtn/homeassistant-screenshots/blob/master/HA-Screenshot1-StartseiteRegenradar.jpg)
 
